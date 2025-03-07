@@ -3,7 +3,7 @@ a = float(input("Enter the first number: "))
 b = float(input("Enter the second number: "))
 
 if b == 0:
-  print("Error: Division by zero is not allowed.")
+    print("Error: Division by zero is not allowed.")
 else:
-  quotient = a / b
-  print (quotient)
+    quotient = a / b
+    print (quotient)
